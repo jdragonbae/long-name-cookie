@@ -1,5 +1,5 @@
 # long-name-cookie
-Test for chromium bug #871639(crbug.com/871639)
+Test for chromium bug [#871639](crbug.com/871639)
 
 <code>
 npm install
